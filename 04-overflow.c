@@ -2,7 +2,7 @@
 
 
 int main(){
-   // int tem 32 bits. O maior valor é 2147483647.
+    // int tem 32 bits. O maior valor é 2147483647.
     // Somando 1, passa do limite e volta para o menor valor (negativo).
     int numero = 2147483647;
     numero = numero + 1;
